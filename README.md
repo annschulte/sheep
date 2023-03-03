@@ -1,2 +1,2 @@
 # sheep
-Radix UI, storybook, design system, Vite
+Vite + Typescript + React Data Component Library
